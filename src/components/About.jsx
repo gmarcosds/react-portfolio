@@ -9,11 +9,7 @@ const About = () => {
                     About
                 </p>
                 <p className='text-xl mt-20'>
-                Enthusiast in the world of technology and programming, I seek
-                opportunities for professional growth and acquire new knowledge.
-                Experience of three as a consultant and architect on the ServiceNow
-                platform, working with JavaScript and React JS with future prospects
-                for growth and breadth in the front end development area
+                Three years of experience in Front End development using several languages ​​and tools, such as JavaScript, React JS, also using platforms such as ServiceNow and Pipefy
                 </p>
                 <br></br>
             </div>
